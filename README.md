@@ -37,4 +37,6 @@
 <!-- Llamado a la acción -->
 <p align="center">
   Aunque mi experiencia laboral se ha centrado en trabajos freelance y proyectos universitarios, tengo confianza en mi capacidad para aportar valor al equipo y contribuir positivamente en los proyectos y objetivos de la empresa. ¡Estoy emocionado de aplicar mis habilidades en mi carrera como desarrollador web y contribuir al éxito de mi equipo y empresa!
+
+puedes contactarme en mi correo victorbellasartes@gmail.com
 </p>
