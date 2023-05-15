@@ -1,6 +1,6 @@
-# ReadmeAboutMe
+
 <!-- Encabezado de la página -->
-<h1 align="center">¡Hola, soy Victor Sierra!</h1>
+<h1 align="center">¡Hola, soy Victor!</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/victorsierracode/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/{Tu perfil de LinkedIn}/" alt="LinkedIn"></a>
   <a href="mailto:{victorbellasartes@gmail.com}"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{Tu correo electrónico}" alt="Email"></a>
